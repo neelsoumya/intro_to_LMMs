@@ -35,11 +35,20 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   https://medium.com/@akash.kesrwani99/understanding-next-token-prediction-concept-to-code-1st-part-7054dabda347
 
-## Contact
 
-Soumya Banerjee
+## Code
 
-sb2333@cam.ac.uk
+https://github.com/acceleratescience/large-language-models
+
+
+## Acknowledgement
+
+Accelerate Science and Ryan Daniels
+
+https://science.ai.cam.ac.uk/
+
+https://science.ai.cam.ac.uk/team/ryan-daniels
+
 
 
 
