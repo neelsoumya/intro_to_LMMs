@@ -49,6 +49,10 @@ Accelerate Science and Ryan Daniels
 
 https://science.ai.cam.ac.uk/
 
+https://docs.science.ai.cam.ac.uk/training/#accelerate-workshops
+
+
+
 https://science.ai.cam.ac.uk/team/ryan-daniels
 
 
