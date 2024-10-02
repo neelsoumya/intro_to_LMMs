@@ -31,6 +31,9 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)#/media/File:Attention
 
 https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
+* Next token prediction
+
+  https://medium.com/@akash.kesrwani99/understanding-next-token-prediction-concept-to-code-1st-part-7054dabda347
 
 ## Contact
 
