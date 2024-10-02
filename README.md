@@ -51,7 +51,9 @@ https://science.ai.cam.ac.uk/
 
 https://docs.science.ai.cam.ac.uk/training/#accelerate-workshops
 
+https://github.com/acceleratescience/diffusion-models
 
+https://docs.science.ai.cam.ac.uk/large-language-models/
 
 https://science.ai.cam.ac.uk/team/ryan-daniels
 
