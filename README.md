@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 * Vizuara videos
 
+  https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu
+
 * 3blue1brown videos
   
 	Embedding video
