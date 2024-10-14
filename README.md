@@ -42,6 +42,11 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
 https://github.com/acceleratescience/large-language-models
 
+https://github.com/acceleratescience/hands-on-llms
+
+https://docs.science.ai.cam.ac.uk/large-language-models/setting-up/codespaces/
+
+
 
 ## Acknowledgement
 
