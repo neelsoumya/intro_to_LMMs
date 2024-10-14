@@ -48,6 +48,14 @@ https://docs.science.ai.cam.ac.uk/large-language-models/setting-up/codespaces/
 
 
 
+## User interfaces
+
+* Streamlit
+
+* https://docs.science.ai.cam.ac.uk/large-language-models/streamlit/
+
+
+
 ## Acknowledgement
 
 Accelerate Science and Ryan Daniels
