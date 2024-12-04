@@ -47,6 +47,11 @@ https://github.com/acceleratescience/hands-on-llms
 https://docs.science.ai.cam.ac.uk/large-language-models/setting-up/codespaces/
 
 
+## Project and hackathon
+
+https://github.com/neelsoumya/CFD_LLM_Accelerate24
+
+
 
 ## User interfaces
 
