@@ -44,7 +44,7 @@ https://github.com/acceleratescience/large-language-models
 
 https://github.com/acceleratescience/hands-on-llms
 
-https://docs.science.ai.cam.ac.uk/large-language-models/setting-up/codespaces/
+https://docs.science.ai.cam.ac.uk/hands-on-llms/setting-up/codespaces/
 
 
 ## Project and hackathon
