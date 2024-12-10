@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   https://medium.com/@akash.kesrwani99/understanding-next-token-prediction-concept-to-code-1st-part-7054dabda347
 
+* LangChain and huggingface open source model example
+
+  https://python.langchain.com/docs/integrations/chat/huggingface/
 
 ## Code
 
