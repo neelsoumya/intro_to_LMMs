@@ -31,6 +31,14 @@ https://www.3blue1brown.com/lessons/gpt
 
 * Attention	
 
+Introduction to attention mechanism (VERY GOOD)
+
+https://www.youtube.com/watch?v=XN7sevVxyUM
+
+Animation
+
+https://jalammar.github.io/illustrated-transformer/
+
 https://en.wikipedia.org/wiki/Attention_(machine_learning)#/media/File:Attention-qkv.png
 
 https://en.wikipedia.org/wiki/Attention_(machine_learning)
