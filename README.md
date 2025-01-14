@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=kCc8FmEb1nY
   
 	Embedding video
 
+Attention video
+
+https://www.youtube.com/watch?v=wjZofJX0v4M
+
   Transformer video
 
 https://www.youtube.com/watch?v=eMlx5fFNoYc&vl=en
