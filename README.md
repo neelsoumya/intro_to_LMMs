@@ -7,6 +7,9 @@ This repository has some teaching resources for a course on introduction to larg
 
 ## Resources
 
+* Introduction to LLMs theory
+
+  https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
 * Andrej Karpathy build GPT-2 ground up
 
@@ -93,6 +96,6 @@ https://docs.science.ai.cam.ac.uk/large-language-models/
 
 https://science.ai.cam.ac.uk/team/ryan-daniels
 
-
+https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
 
