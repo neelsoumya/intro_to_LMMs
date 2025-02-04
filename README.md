@@ -68,6 +68,7 @@ https://docs.science.ai.cam.ac.uk/hands-on-llms/setting-up/codespaces/
 
 https://github.com/neelsoumya/CFD_LLM_Accelerate24
 
+https://github.com/neelsoumya/LLM-Handon
 
 
 ## User interfaces
