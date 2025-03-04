@@ -94,6 +94,8 @@ https://github.com/acceleratescience/diffusion-models
 
 https://docs.science.ai.cam.ac.uk/large-language-models/
 
+https://docs.science.ai.cam.ac.uk/diffusion-models/Introduction/Introduction/
+
 https://science.ai.cam.ac.uk/team/ryan-daniels
 
 https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
