@@ -7,6 +7,10 @@ This repository has some teaching resources for a course on introduction to larg
 
 ## Resources
 
+* very good visual explanation of LLMs and transformers
+
+  https://ig.ft.com/generative-ai/
+
 * Introduction to LLMs theory
 
   https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
