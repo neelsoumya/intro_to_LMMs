@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 * 3blue1brown videos
 
+playlist
+
 https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 Embedding video
