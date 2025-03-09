@@ -26,8 +26,10 @@ https://www.youtube.com/watch?v=kCc8FmEb1nY
   https://www.vizuaranewsletter.com/p/9e1
 
 * 3blue1brown videos
-  
-	Embedding video
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+Embedding video
 
 Attention video
 
