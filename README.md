@@ -78,6 +78,8 @@ Transformers from scratch
 
 `[1_1]_Transformer_from_Scratch_(exercises).ipynb`
 
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/%5B1_1%5D_Transformer_from_Scratch_(exercises).ipynb
+
 
 
 ## Project and hackathon
@@ -113,4 +115,10 @@ https://science.ai.cam.ac.uk/team/ryan-daniels
 
 https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
+
+## Contact
+
+Soumya Banerjee
+
+sb2333@cam.ac.uk
 
