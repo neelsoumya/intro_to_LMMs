@@ -74,6 +74,11 @@ https://github.com/acceleratescience/hands-on-llms
 
 https://docs.science.ai.cam.ac.uk/hands-on-llms/setting-up/codespaces/
 
+Transformers from scratch
+
+`[1_1]_Transformer_from_Scratch_(exercises).ipynb`
+
+
 
 ## Project and hackathon
 
