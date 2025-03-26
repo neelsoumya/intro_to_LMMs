@@ -80,7 +80,9 @@ Transformers from scratch
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/%5B1_1%5D_Transformer_from_Scratch_(exercises).ipynb
 
+`text_classification_with_transformer.ipynb`: Multi-head attention transformers in Keras
 
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/text_classification_with_transformer.ipynb
 
 ## Project and hackathon
 
