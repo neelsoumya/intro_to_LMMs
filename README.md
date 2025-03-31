@@ -74,6 +74,10 @@ https://github.com/acceleratescience/hands-on-llms
 
 https://docs.science.ai.cam.ac.uk/hands-on-llms/setting-up/codespaces/
 
+`L2_NLP_transformers.ipynb`: Simple code to call a facebook open-source model
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
+
 Transformers from scratch
 
 `[1_1]_Transformer_from_Scratch_(exercises).ipynb`
