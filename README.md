@@ -88,8 +88,9 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/%5B1_1%5D_Transformer_from
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/text_classification_with_transformer.ipynb
 
-`tiktoken_demo.ipynb`: Explains tokenizer
+`tiktoken_demo.ipynb`: Code to explain tokenizer
 
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/tiktoken_demo.ipynb
 
 
 ## Project and hackathon
