@@ -92,6 +92,9 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/text_classification_with_t
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/tiktoken_demo.ipynb
 
+`softmax_practical.ipynb`: Practical to explain the softmax function.
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/softmax_practical.ipynb
 
 ## Project and hackathon
 
