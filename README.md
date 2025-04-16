@@ -102,6 +102,11 @@ https://github.com/neelsoumya/CFD_LLM_Accelerate24
 
 https://github.com/neelsoumya/LLM-Handon
 
+https://github.com/neelsoumya/science_fiction_LLM
+
+https://github.com/neelsoumya/science_fiction_AI_LLM
+
+
 
 ## User interfaces
 
