@@ -96,6 +96,10 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/tiktoken_demo.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/softmax_practical.ipynb
 
+`Lesson_3-selfattention.ipynb`: Coding self-attention in PyTorch
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/Lesson_3-selfattention.ipynb
+
 `Situational_Awareness_LLMs_LLaMA.ipynb`: Open source model to test if LLM has situational awareness
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs_LLaMA.ipynb
