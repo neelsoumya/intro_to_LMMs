@@ -66,6 +66,32 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   https://python.langchain.com/docs/integrations/chat/huggingface/
 
+
+## Installation
+
+```R
+pip install -r requirements-handson.txt
+
+mkdir -p /home/codespace/.local/lib/python3.12/site-packages/google/colab
+
+```
+
+Add a new file called `.env` and type in the following:
+
+```
+OPENAI_API_KEY = "<yourapikeywhichisprivate>"
+```
+
+Create a .gitignore and add the following
+
+```
+.env
+```
+
+
+You can execute the following notebooks in Github codespaces or Google Colab.
+
+
 ## Code
 
 https://github.com/acceleratescience/large-language-models
