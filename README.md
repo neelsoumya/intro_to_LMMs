@@ -135,6 +135,10 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs.ipynb
 
 
+`arc_solver.ipynb`: IPython notebook to solve ARC puzzles and H.Dudeney puzzles
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/arc_solver.ipynb
+
 ## Project and hackathon
 
 https://github.com/neelsoumya/CFD_LLM_Accelerate24
