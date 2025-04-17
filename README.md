@@ -96,6 +96,15 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/tiktoken_demo.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/softmax_practical.ipynb
 
+`Situational_Awareness_LLMs_LLaMA.ipynb`: Open source model to test if LLM has situational awareness
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs_LLaMA.ipynb
+
+`Situational_Awareness_LLMs.ipynb`: Closed source model to test if LLM has situational awareness
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs.ipynb
+
+
 ## Project and hackathon
 
 https://github.com/neelsoumya/CFD_LLM_Accelerate24
