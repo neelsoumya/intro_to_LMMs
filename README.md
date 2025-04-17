@@ -94,6 +94,8 @@ You can execute the following notebooks in Github codespaces or Google Colab.
 
 ## Code
 
+https://github.com/neelsoumya/hands-on-llms
+
 https://github.com/acceleratescience/large-language-models
 
 https://github.com/acceleratescience/hands-on-llms
