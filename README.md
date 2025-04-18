@@ -142,6 +142,10 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/arc_solver.ipynb
 
 
+`fine_tune_llm.ipynb`: IPython notebook that shows how to finetune a LLM
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/fine_tune_llm.ipynb
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
