@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository has some teaching resources for a course on introduction to large language models (LMMs). 
+This repository has some teaching resources and code for a course on introduction to large language models (LMMs). 
 
 
 ## Resources
@@ -141,11 +141,20 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/Situational_Awareness_LLMs
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/arc_solver.ipynb
 
+
 ## Project and hackathon
+
+Some other projects and hackathons using LLMs are here:
+
+* Code to perform CFD and solve ARC tasks
 
 https://github.com/neelsoumya/CFD_LLM_Accelerate24
 
+* Code to create a healthcare AI chatbot
+
 https://github.com/neelsoumya/LLM-Handon
+
+* Code to use science-fiction to re-envision AI using LLMs
 
 https://github.com/neelsoumya/science_fiction_LLM
 
