@@ -146,6 +146,13 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/arc_solver.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/fine_tune_llm.ipynb
 
+
+`text_translation_summarization.ipynb`: IPython notebook to translate text and summarize text using open-source models.
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/text_translation_summarization.ipynb
+
+
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
