@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "intro_to_LMMs"
+version = "0.1.0"
+description = "Introduction to large language models (LMMs)"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+license = {text = "MIT"}
+keywords = ["LMMs", "large language models", "AI", "machine learning"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    # Add your project dependencies here, e.g.,
+     "numpy",
+     "pandas"
+]
+
+[tool.setuptools.packages]
+find = {"where" = ["src"]}
+
+[tool.setuptools]
+package-dir = {"" = "src"}  # Adjust the source directory if necessary
