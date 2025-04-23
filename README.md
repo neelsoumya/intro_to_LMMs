@@ -151,6 +151,14 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/fine_tune_llm.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/text_translation_summarization.ipynb
 
+`L2_NLP_transformers.ipynb`: Open source LLM for probing superintelligence (model organism of misalignment)
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
+
+Code to call OpenAI API
+
+https://github.com/neelsoumya/hands-on-llms/blob/main/Notebooks/02_open_ai.ipynb
+
 
 
 ## Project and hackathon
@@ -160,6 +168,9 @@ Some other projects and hackathons using LLMs are here:
 * Code to perform CFD and solve ARC tasks
 
 https://github.com/neelsoumya/CFD_LLM_Accelerate24
+
+https://github.com/neelsoumya/hands-on-llms/blob/main/Notebooks/arc_solver.ipynb
+
 
 * Code to create a healthcare AI chatbot
 
@@ -171,6 +182,9 @@ https://github.com/neelsoumya/science_fiction_LLM
 
 https://github.com/neelsoumya/science_fiction_AI_LLM
 
+* Code for open source LLM for probing superintelligence (model organism of misalignment).
+    
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
 
 
 ## User interfaces
