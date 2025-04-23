@@ -7,7 +7,7 @@ name = "intro_to_LMMs"
 version = "0.1.0"
 description = "Introduction to large language models (LMMs)"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Soumya Banerjee", email = "sb2333@cam.ac.uk"}
 ]
 license = {text = "MIT"}
 keywords = ["LMMs", "large language models", "AI", "machine learning"]
