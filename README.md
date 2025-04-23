@@ -155,9 +155,11 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/text_translation_summariza
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
 
-Code to call OpenAI API
+`02_open_ai.ipynb`: Code to call OpenAI API
 
 https://github.com/neelsoumya/hands-on-llms/blob/main/Notebooks/02_open_ai.ipynb
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/02_open_ai.ipynb
 
 
 
