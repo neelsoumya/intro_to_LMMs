@@ -246,13 +246,54 @@ python -m unittest discover -s tests
 
 Steps to upload this to `PyPI`:
 
-1. ```R
+ ```R
  pip install build twine
  ```
-
- ```R
+ 
+```R
  python -m build
- ```
+```
+
+Create a `.pypirc` with your credentials. Please have this in your `.gitignore` file
+
+The format of a `.pypirc` file is:
+
+```R
+[distutils]
+index-servers =
+    pypi
+    testpypi
+
+[pypi]
+username = __token__
+password = <your-pypi-token>
+
+[testpypi]
+repository = https://test.pypi.org/legacy/
+username = __token__
+password = <your-testpypi-token>
+```
+
+Upload to TestPyPI:
+
+
+```R
+ twine upload --repository testpypi dist/* 
+```
+
+Upload to PyPI
+
+
+```R
+pip install --index-url https://test.pypi.org/simple/intro-to-LMMs
+```
+
+Verify Installation
+
+
+```R
+pip install intro-to-LMMs
+```
 
 ## Contact
 
