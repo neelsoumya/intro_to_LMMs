@@ -216,6 +216,44 @@ https://science.ai.cam.ac.uk/team/ryan-daniels
 https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
 
+## Fun
+
+This is also a package. So in your terminal you can type
+
+```R
+pip install -e .
+```
+
+and in a Python script you can type the following
+
+```R
+
+from intro_to_LMMs import greet
+
+print(greet())
+
+```
+
+or run
+
+`test_pythonpackage.py`
+
+or run the following in the terminal
+
+```R
+python -m unittest discover -s tests
+```
+
+Steps to upload this to `PyPI`:
+
+1. ```R
+ pip install build twine
+ ```
+
+ ```R
+ python -m build
+ ```
+
 ## Contact
 
 Soumya Banerjee
