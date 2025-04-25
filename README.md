@@ -161,7 +161,9 @@ https://github.com/neelsoumya/hands-on-llms/blob/main/Notebooks/02_open_ai.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/02_open_ai.ipynb
 
+`agentic_workflow_llm_opensource.ipynb`: Open source model for agentic workflow
 
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/agentic_workflow_llm_opensource.ipynb
 
 ## Project and hackathon
 
