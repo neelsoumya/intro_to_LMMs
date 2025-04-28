@@ -299,6 +299,10 @@ pip install intro-to-LMMs
 
 ## Running Docker
 
+Create a `Dockerfile`
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/Dockerfile
+
 Build the docker image
 
 ```R
