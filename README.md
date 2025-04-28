@@ -228,7 +228,7 @@ pip install -e .
 
 and in a Python script you can type the following
 
-```R
+```py
 
 from intro_to_LMMs import greet
 
@@ -242,17 +242,17 @@ or run
 
 or run the following in the terminal
 
-```R
+```py
 python -m unittest discover -s tests
 ```
 
 Steps to upload this to `PyPI`:
 
- ```R
+ ```py
  pip install build twine
  ```
  
-```R
+```py
  python -m build
 ```
 
@@ -260,7 +260,7 @@ Create a `.pypirc` with your credentials. Please have this in your `.gitignore` 
 
 The format of a `.pypirc` file is:
 
-```R
+```py
 [distutils]
 index-servers =
     pypi
@@ -279,21 +279,21 @@ password = <your-testpypi-token>
 Upload to TestPyPI:
 
 
-```R
+```py
  twine upload --repository testpypi dist/* 
 ```
 
 Upload to PyPI
 
 
-```R
+```py
 pip install --index-url https://test.pypi.org/simple/intro-to-LMMs
 ```
 
 Verify Installation
 
 
-```R
+```py
 pip install intro-to-LMMs
 ```
 
