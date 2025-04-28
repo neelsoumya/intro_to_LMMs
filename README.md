@@ -218,7 +218,7 @@ https://science.ai.cam.ac.uk/team/ryan-daniels
 https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
 
-## Fun
+## Making this a package
 
 This is also a package. So in your terminal you can type
 
@@ -296,6 +296,13 @@ Verify Installation
 ```R
 pip install intro-to-LMMs
 ```
+
+## Running Docker
+
+```R
+docker build -t my-jupyter-image .
+```
+
 
 ## Contact
 
