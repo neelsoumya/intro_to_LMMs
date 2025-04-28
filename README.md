@@ -311,6 +311,11 @@ Run the docker container
 docker run -p 8888:8888 -v $(pwd):/app my-jupyter-image
 ```
 
+Access Jupyter Notebook by visiting 
+
+`http://localhost:8888`
+
+
 ## Contact
 
 Soumya Banerjee
