@@ -299,10 +299,17 @@ pip install intro-to-LMMs
 
 ## Running Docker
 
+Build the docker image
+
 ```R
 docker build -t my-jupyter-image .
 ```
 
+Run the docker container
+
+```R
+docker run -p 8888:8888 -v $(pwd):/app my-jupyter-image
+```
 
 ## Contact
 
