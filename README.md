@@ -190,6 +190,13 @@ https://github.com/neelsoumya/science_fiction_AI_LLM
     
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
 
+* Coding agents using `smolagents`
+
+https://github.com/neelsoumya/intro_to_LMMs/tree/main/agents/smolagents/L3
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/agents/smolagents/L3/Lesson3.ipynb
+
+
 
 ## User interfaces
 
