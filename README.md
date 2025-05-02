@@ -165,6 +165,11 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/02_open_ai.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/agentic_workflow_llm_opensource.ipynb
 
+
+`introduction_to_stablediffusion.ipynb`: Stable diffusion text to image generation using open-source HuggingFace model
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/introduction_to_stablediffusion.ipynb
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
