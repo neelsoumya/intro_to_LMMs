@@ -170,6 +170,13 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/agentic_workflow_llm_opens
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/introduction_to_stablediffusion.ipynb
 
+`Lesson3.ipynb`: Coding agents using `smolagents`
+
+https://github.com/neelsoumya/intro_to_LMMs/tree/main/agents/smolagents/L3
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/agents/smolagents/L3/Lesson3.ipynb
+
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
