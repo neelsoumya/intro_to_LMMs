@@ -176,6 +176,10 @@ https://github.com/neelsoumya/intro_to_LMMs/tree/main/agents/smolagents/L3
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/agents/smolagents/L3/Lesson3.ipynb
 
+`smolagents_websearch.ipynb`: Websearch agent using `smolagents`
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/smolagents_websearch.ipynb
+
 
 ## Project and hackathon
 
