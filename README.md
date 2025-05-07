@@ -320,6 +320,86 @@ Verify Installation
 pip install intro-to-LMMs
 ```
 
+
+
+## Documentation using makedocs
+
+```py
+pip install mkdocs mkdocs-material mkdocs-include-markdown-plugin
+```
+
+Create a file named mkdocs.yml in the root of your repository with the following content:
+
+```py
+site_name: Introduction to LMMs
+site_description: Documentation for the Intro to Large Language Models (LMMs) project
+site_author: Soumya Banerjee
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - API Reference: api_reference.md
+  - Contributing: contributing.md
+
+plugins:
+  - include-markdown
+```
+
+Create a folder named docs in the root of your repository and add the following Markdown files:
+
+`docs/index.md`
+
+```py
+# Introduction to LMMs
+
+Welcome to the documentation for the **Intro to Large Language Models (LMMs)** project.
+
+This project provides resources and tools for learning and working with large language models.
+```
+
+Create a file in `docs/installation.md`
+
+```py
+# Installation
+
+To install the package, run:
+
+pip install intro-to-LMMs
+
+```
+
+Create a file in `docs/contributing.md`
+
+```py
+# Contributing
+
+Contributions are welcome! Please follow the guidelines below:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request.
+```
+
+```py
+mkdocs serve
+
+mkdocs build
+
+mkdocs gh-deploy
+
+```
+
+
+```py
+
+https://neelsoumya.github.io/intro_to_LMMs/
+
+```
+
+
 ## Running Docker
 
 Create a `Dockerfile`
