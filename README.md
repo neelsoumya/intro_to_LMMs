@@ -320,6 +320,7 @@ Verify Installation
 pip install intro-to-LMMs
 ```
 
+https://pypi.org/project/intro-to-LMMs/0.1.0/#description
 
 
 ## Documentation using makedocs
