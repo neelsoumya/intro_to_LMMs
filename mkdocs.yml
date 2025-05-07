@@ -1,0 +1,15 @@
+site_name: Introduction to LMMs
+site_description: Documentation for the Intro to Large Language Models (LMMs) project
+site_author: Soumya Banerjee
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - API Reference: api_reference.md
+  - Contributing: contributing.md
+
+plugins:
+  - include-markdown
