@@ -4,6 +4,7 @@
 
 This repository has some teaching resources and code for a course on introduction to large language models (LMMs). 
 
+![Logo created using DALL-E](logo.png)
 
 ## Resources
 
