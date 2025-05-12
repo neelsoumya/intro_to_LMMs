@@ -190,6 +190,11 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/simple_agent_ag2.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2.ipynb
 
+`deep_research_agent_ag2_lifeaswedonotknowit.ipynb`: Deepresearch agent to re-envision life as we do *not* know it
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2_lifeaswedonotknowit.ipynb
+
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
