@@ -186,6 +186,9 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/smolagents_websearch.ipynb
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/simple_agent_ag2.ipynb
 
+`deep_research_agent_ag2.ipynb`: Deepresearch agent to re-envision AI and trip planning
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2.ipynb
 
 ## Project and hackathon
 
