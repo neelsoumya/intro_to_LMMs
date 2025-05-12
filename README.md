@@ -182,6 +182,11 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/agents/smolagents/L3/Lesso
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/smolagents_websearch.ipynb
 
 
+`simple_agent_ag2.ipynb`: A simple agent using the AG2 package to re-envision AI
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/simple_agent_ag2.ipynb
+
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
@@ -212,6 +217,7 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
 https://github.com/neelsoumya/intro_to_LMMs/tree/main/agents/smolagents/L3
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/agents/smolagents/L3/Lesson3.ipynb
+
 
 
 
