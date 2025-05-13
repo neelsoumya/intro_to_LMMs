@@ -216,6 +216,10 @@ https://github.com/neelsoumya/science_fiction_LLM
 
 https://github.com/neelsoumya/science_fiction_AI_LLM
 
+* Code for using science-fiction and LLMs to re-envision life as we do *not* know it
+
+https://github.com/neelsoumya/science_fiction_life_LLM
+
 * Code for open source LLM for probing superintelligence (model organism of misalignment).
     
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
