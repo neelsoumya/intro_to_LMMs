@@ -89,6 +89,7 @@ Create a .gitignore and add the following
 .env
 ```
 
+If you are using Google Colab, add your OpenAI API key to a variable named OPENAI_API_KEY in the secrets tab of Google Colab.
 
 You can execute the following notebooks in Github codespaces or Google Colab.
 
