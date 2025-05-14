@@ -225,6 +225,10 @@ https://github.com/neelsoumya/science_fiction_life_LLM
 
 https://github.com/neelsoumya/stock_portfolio_LLM_agent
 
+* Code to create a deepresearch tool to analyzing national AI strategies of different countries
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2_nationalAI_strategy.ipynb
+
 * Code for open source LLM for probing superintelligence (model organism of misalignment).
     
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
