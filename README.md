@@ -221,6 +221,10 @@ https://github.com/neelsoumya/science_fiction_AI_LLM
 
 https://github.com/neelsoumya/science_fiction_life_LLM
 
+* Code to create a deepresearch tool for stock market and portfolio analysis
+
+https://github.com/neelsoumya/stock_portfolio_LLM_agent
+
 * Code for open source LLM for probing superintelligence (model organism of misalignment).
     
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
