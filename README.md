@@ -195,6 +195,10 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2.ip
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2_lifeaswedonotknowit.ipynb
 
+`explainability_using_LLM.ipynb` : Code to explain a black-box model using explainable AI techniques and an LLM to tailor explanation
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/explainability_using_LLM.ipynb
+
 
 ## Project and hackathon
 
