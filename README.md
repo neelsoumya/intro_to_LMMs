@@ -104,6 +104,10 @@ https://github.com/acceleratescience/hands-on-llms
 
 https://docs.science.ai.cam.ac.uk/hands-on-llms/setting-up/codespaces/
 
+`02_open_ai.ipynb`: Simple code to call the OpenAI API
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/02_open_ai.ipynb
+
 `L2_NLP_transformers.ipynb`: Simple code to call a facebook open-source model
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/L2_NLP_transformers.ipynb
