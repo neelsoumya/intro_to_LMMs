@@ -203,6 +203,9 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2_li
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/explainability_using_LLM.ipynb
 
+Finetuning an OpenAI model
+
+https://docs.science.ai.cam.ac.uk/hands-on-llms/finetuning/openai-finetuning/#create-a-fine-tuning-job
 
 ## Project and hackathon
 
