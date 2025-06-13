@@ -203,6 +203,10 @@ https://github.com/neelsoumya/intro_to_LMMs/blob/main/deep_research_agent_ag2_li
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/explainability_using_LLM.ipynb
 
+`IIT_consciousness_LLMs.ipynb`: Probing levels of consciousness of an LLM using the IIT metric $\phi$
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/IIT_consciousness_LLMs.ipynb
+
 Finetuning an OpenAI model
 
 https://docs.science.ai.cam.ac.uk/hands-on-llms/finetuning/openai-finetuning/#create-a-fine-tuning-job
