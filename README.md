@@ -216,6 +216,8 @@ https://docs.science.ai.cam.ac.uk/hands-on-llms/finetuning/openai-finetuning/#cr
 
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/gpt_oss_120b.ipynb
 
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/gpt-oss-120b.py
+
 
 ## Project and hackathon
 
