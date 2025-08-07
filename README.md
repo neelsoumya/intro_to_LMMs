@@ -211,6 +211,12 @@ Finetuning an OpenAI model
 
 https://docs.science.ai.cam.ac.uk/hands-on-llms/finetuning/openai-finetuning/#create-a-fine-tuning-job
 
+
+`gpt_oss_120b.ipynb`  Open source OpenAI model
+
+https://github.com/neelsoumya/intro_to_LMMs/blob/main/gpt_oss_120b.ipynb
+
+
 ## Project and hackathon
 
 Some other projects and hackathons using LLMs are here:
