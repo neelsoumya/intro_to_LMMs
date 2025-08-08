@@ -67,6 +67,9 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   https://python.langchain.com/docs/integrations/chat/huggingface/
 
+* Context engineering
+
+  https://towardsdatascience.com/context-engineering-a-comprehensive-hands-on-tutorial-with-dspy/
 
 ## Installation
 
