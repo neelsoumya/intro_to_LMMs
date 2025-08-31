@@ -71,6 +71,12 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   https://towardsdatascience.com/context-engineering-a-comprehensive-hands-on-tutorial-with-dspy/
 
+* Mathematical foundations of GenAI
+
+  https://www.youtube.com/watch?v=nfZQYopzv20&list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu&index=3&t=173s
+
+  https://github.com/Chandan-IISc/IITM_GenAI
+
 ## Installation
 
 ```R
