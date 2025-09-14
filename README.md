@@ -77,6 +77,10 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   https://github.com/Chandan-IISc/IITM_GenAI
 
+* [Cheatsheet LLM](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf)
+
+* [Learning resources on Gen AI](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
 ## Installation
 
 ```R
