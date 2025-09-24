@@ -29,6 +29,8 @@ Below are ready-to-use **Markdown** lesson pages for Lessons 1–8. Copy each le
 * Walk through the FT visual explainer together; short quiz / discussion.  
 * Short Colab notebook: query a small open-source model (or hosted demo) and inspect token outputs.
 
+[Notebook exercise](https://github.com/neelsoumya/intro_to_LMMs/blob/main/LLM_demo_tokenlevel_inspection.ipynb)
+
 ### Assignment
 
 * Write a 300–500 word reflection: *How does the model produce text?* Cite the FT explainer and the course intro notes.
