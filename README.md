@@ -309,7 +309,7 @@ https://science.ai.cam.ac.uk/team/ryan-daniels
 https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
 
-## Making this a package
+## Python package
 
 This is also a package. So in your terminal you can type
 
