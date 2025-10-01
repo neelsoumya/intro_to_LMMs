@@ -36,13 +36,13 @@ VERY GOOD playlist on deep learning, LLMs and transformers
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
-Embedding video
+- Embedding video
 
-Attention video
+- Attention video
 
 https://www.youtube.com/watch?v=wjZofJX0v4M
 
-  Transformer video
+- Transformer video
 
 https://www.youtube.com/watch?v=eMlx5fFNoYc&vl=en
 
@@ -282,6 +282,9 @@ https://github.com/neelsoumya/intro_to_LMMs/tree/main/agents/smolagents/L3
 https://github.com/neelsoumya/intro_to_LMMs/blob/main/agents/smolagents/L3/Lesson3.ipynb
 
 
+* Other LLM projects
+
+https://github.com/neelsoumya/llm_projects
 
 
 ## User interfaces
