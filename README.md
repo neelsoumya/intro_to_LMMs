@@ -55,7 +55,7 @@ Introduction to attention mechanism (VERY GOOD)
 
 https://www.youtube.com/watch?v=XN7sevVxyUM
 
-Animation
+- Animation
 
 https://jalammar.github.io/illustrated-transformer/
 
@@ -84,6 +84,8 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 * [Cheatsheet LLM](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf)
 
 * [Learning resources on Gen AI](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+
+* [Ethics of LLMs](https://github.com/neelsoumya/AI_safety_teaching_resources)
 
 ## Installation
 
