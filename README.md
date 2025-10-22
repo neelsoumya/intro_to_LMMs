@@ -313,6 +313,8 @@ https://science.ai.cam.ac.uk/team/ryan-daniels
 
 https://docs.science.ai.cam.ac.uk/large-language-models/Introduction/Introduction/
 
+https://docs.science.ai.cam.ac.uk/diffusion-models
+
 
 ## Python package
 
