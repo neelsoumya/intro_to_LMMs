@@ -177,3 +177,49 @@ trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
 - You can train on consumer hardware and store multiple adapters cheaply
 - Performance is comparable to full fine-tuning for many tasks
 - Essential for democratizing LLM customization
+- 
+
+
+# [Code](https://github.com/neelsoumya/llm_projects/blob/main/PEFT_pytorch_gpt2.py)
+
+# LoRA Alpha Parameter Explanation
+
+In this LoRA (Low-Rank Adaptation) configuration, **`lora_alpha = 32`** is a scaling parameter that controls the magnitude of the LoRA updates applied to the model.
+
+## What it does
+
+The actual scaling factor applied to the LoRA weights is calculated as:
+
+```
+scaling_factor = lora_alpha / r
+```
+
+In your case: `32 / 8 = 4`
+
+This means the LoRA updates will be scaled by a factor of 4 before being added to the original model weights.
+
+## Why it matters
+
+- **Higher `lora_alpha`**: Stronger influence of the LoRA adaptation on the model (more aggressive fine-tuning)
+- **Lower `lora_alpha`**: Weaker influence (more conservative fine-tuning)
+
+The ratio `lora_alpha / r` is often kept constant across different rank values to maintain consistent learning dynamics. A common convention is to set `lora_alpha = 2 * r`, though your configuration uses `lora_alpha = 4 * r`, which will result in stronger LoRA updates.
+
+## In practice
+
+Think of `lora_alpha` as a learning rate multiplier for the LoRA weights. It's a hyperparameter you can tune based on your task:
+
+- If your fine-tuning is too aggressive or unstable, you might **lower** it
+- If the model isn't adapting enough, you might **increase** it
+
+## Your Configuration
+
+```python
+lora_config = LoraConfig(
+    task_type = TaskType.CAUSAL_LM, # for GPT-2
+    r = 8, # rank
+    lora_alpha = 32, # alpha (scaling factor = 32/8 = 4)
+    lora_dropout = 0.1, # dropout
+    target_modules = ["c_attn", "c_proj"] # target modules to apply LoRA
+)
+```
