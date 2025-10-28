@@ -12,6 +12,8 @@ This repository has some teaching resources and code for a course on introductio
 
 ## Resources
 
+* [Explanation and code for parameter efficient fine tuning (PEFT) and LoRA](https://github.com/neelsoumya/intro_to_LMMs/blob/main/PEFT.md)
+
 * very good visual explanation of LLMs and transformers
 
   https://ig.ft.com/generative-ai/
