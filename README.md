@@ -6,6 +6,7 @@ This repository has some teaching resources and code for a course on introductio
 
 ![Logo created using DALL-E](logo.png)
 
+
 ## Lesson plan
 
 [Lesson plan](https://github.com/neelsoumya/intro_to_LMMs/blob/main/lessons.md)
