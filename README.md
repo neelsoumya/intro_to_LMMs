@@ -118,6 +118,26 @@ If you are using Google Colab, add your OpenAI API key to a variable named OPENA
 You can execute the following notebooks in Github codespaces or Google Colab.
 
 
+
+Alternatively, if you want to do a local installation then install Python and then VSCode or Spyder and then follow the following steps to create a virtual environment:
+
+```bash
+	python -m venv .venv
+```
+
+Activate the virtual environment:
+
+```bash
+	source .venv/bin/activate
+```
+
+and then install all packages
+
+```bash
+	pip install -r requirements-handson.txt
+```
+
+
 ## Code
 
 https://github.com/neelsoumya/hands-on-llms

@@ -22,3 +22,5 @@ numpy
 PyMuPDF
 huggingface_hub
 pre-commit
+intro_to_LMMs
+
