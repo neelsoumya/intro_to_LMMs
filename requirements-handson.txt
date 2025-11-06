@@ -1,4 +1,7 @@
---extra-index-url https://download.pytorch.org/whl/cpu
+ls -la .pre-commit-config.yaml
+file .pre-commit-config.yaml
+test -f .pre-commit-config.yaml && echo "is file" || echo "not a file"
+git status -- .pre-commit-config.yaml--extra-index-url https://download.pytorch.org/whl/cpu
 torch
 llama-index
 openai
