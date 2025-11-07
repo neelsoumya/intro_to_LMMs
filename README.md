@@ -501,7 +501,7 @@ https://neelsoumya.github.io/intro_to_LMMs/
 ```
 
 
-## Testing and CI
+## Testing and CI and pre-commit
 
 ```py
 pip install unittest
