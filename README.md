@@ -501,6 +501,24 @@ https://neelsoumya.github.io/intro_to_LMMs/
 ```
 
 
+## Testing and CI
+
+```py
+pip install unittest
+```
+
+```bash
+python -m unittest discover -s tests
+
+pytest  
+```
+
+```bash
+# .github/workflows/.pre-commit-config.yaml
+pre-commit run --all-files
+```
+
+
 ## Running Docker
 
 Create a `Dockerfile`
