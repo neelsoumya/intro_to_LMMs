@@ -91,6 +91,9 @@ https://en.wikipedia.org/wiki/Attention_(machine_learning)
 * [Ethics of LLMs](https://github.com/neelsoumya/AI_safety_teaching_resources)
 
 
+## Platforms
+
+* [Free models on openrouter](https://openrouter.ai/models?q=free)
 
 ## Installation
 
