@@ -4,18 +4,16 @@ on:
   issues:
     types: [opened]
 
+permissions:
+  issues: write
+  models: read
+  contents: read
+
 jobs:
   summary:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      models: read
-      contents: read
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Run AI inference
         id: inference
         uses: actions/ai-inference@v1
@@ -26,9 +24,19 @@ jobs:
             Body: ${{ github.event.issue.body }}
 
       - name: Comment with AI summary
-        run: |
-          gh issue comment $ISSUE_NUMBER --body '${{ steps.inference.outputs.response }}'
+        uses: actions/github-script@v7
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           RESPONSE: ${{ steps.inference.outputs.response }}
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue_number = Number(process.env.ISSUE_NUMBER);
+            const body = process.env.RESPONSE || "";
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+              body,
+            });
